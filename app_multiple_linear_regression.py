@@ -18,7 +18,7 @@ load_css("style.css")
 st.markdown("""
 <div class="card">
             <h1>MULTIPLE LINEAR REGRESSION</h1>
-            <p>Predict <b> Tip amount</b> based on <b> Total Bill</b> using Linear Regression...</p>
+            <p>Predict <b> Tip amount</b> based on <b> Total Bill,Size</b> using Multiple Linear Regression...</p>
 </div>
             """, unsafe_allow_html=True)
 
